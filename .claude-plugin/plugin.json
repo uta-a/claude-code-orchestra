@@ -1,0 +1,14 @@
+{
+  "name": "orchestra",
+  "version": "0.2.0",
+  "description": "Claude Code 用の軽量オーケストレーションプラグイン。計画・実装・機械検証・レビューを役割分離したサブエージェントに委譲し、Stop フックで検証ゲートと周回上限を強制する。",
+  "author": {
+    "name": "uta_a"
+  },
+  "keywords": [
+    "orchestration",
+    "subagents",
+    "hooks",
+    "review-loop"
+  ]
+}

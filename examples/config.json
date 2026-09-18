@@ -1,0 +1,8 @@
+{
+  "maxRounds": 5,
+  "commands": [
+    "pnpm typecheck",
+    "pnpm lint",
+    "pnpm vitest run --changed"
+  ]
+}

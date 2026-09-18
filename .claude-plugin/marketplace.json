@@ -1,0 +1,13 @@
+{
+  "name": "uta-a-plugins",
+  "owner": {
+    "name": "uta_a"
+  },
+  "plugins": [
+    {
+      "name": "orchestra",
+      "source": "./",
+      "description": "計画・実装・機械検証・レビューを役割分離した軽量オーケストレーションプラグイン"
+    }
+  ]
+}
